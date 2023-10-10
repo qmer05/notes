@@ -189,3 +189,6 @@ public class Main {
 
 Mangler
 scanner , text, methods mm.
+
+  Stack = hvor alle metoder ligger 
+  Heap = hvor alle objekter ligger
