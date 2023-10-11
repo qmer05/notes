@@ -192,3 +192,4 @@ scanner , text, methods mm.
 
   Stack = hvor alle metoder ligger 
   Heap = hvor alle objekter ligger
+  Polymorfi = bruges til genbrug(arver kode) + abstraktion
