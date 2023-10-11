@@ -194,3 +194,4 @@ scanner , text, methods mm.
   Heap = hvor alle objekter ligger
   Polymorfi   --> genbrug (arver kode) (behandler alle klasser ens)
               --> abstraktion (generisk kode)
+  Interface (100% abstrakte klasser)
